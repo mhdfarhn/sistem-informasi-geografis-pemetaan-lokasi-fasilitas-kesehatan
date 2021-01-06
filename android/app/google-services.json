@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "500211518746",
+    "project_id": "sigpl-fasilitas-kesehatan",
+    "storage_bucket": "sigpl-fasilitas-kesehatan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500211518746:android:ef634d6de11fe20722b0a3",
+        "android_client_info": {
+          "package_name": "com.example.sigpl_fasilitas_kesehatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500211518746-0fnfhnvqbctn8sd1vpmc1g4eeru7joan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sigpl_fasilitas_kesehatan",
+            "certificate_hash": "2f84e9dfed78bca69a5cf8a36c94f1014b96a2c4"
+          }
+        },
+        {
+          "client_id": "500211518746-spsrni3bgnv2ek9rdod6as1dr2r0vm8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQ4eq6c_wQ1eca6xp_kIqojXxA7LXmaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500211518746-spsrni3bgnv2ek9rdod6as1dr2r0vm8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
